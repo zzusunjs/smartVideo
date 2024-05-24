@@ -18,3 +18,7 @@ bin-release/
 # information for Eclipse / Flash Builder.
 
 node_modules
+
+demo/node_modules
+
+dist
